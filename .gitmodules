@@ -3,7 +3,7 @@
     url = https://github.com/Road-Drum/wine
 [submodule "dxvk"]
 	path = dxvk
-	url = https://github.com/doitsujin/dxvk
+	url = https://github.com/Road-Drum/dxvk
 [submodule "freetype2"]
 	path = freetype2
 	url = https://git.savannah.nongnu.org/r/freetype/freetype2.git/
